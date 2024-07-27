@@ -1,0 +1,12 @@
+TOKEN = '7392801546:AAFUWwZI8nuh0Mo0QO-tVVP96S_0YlMBT7I'
+
+DB_NAME = 'game_shop'
+DB_USER = 'root'
+DB_PASSWORD = '121234341234a'
+DB_HOST = 'localhost'
+
+MYSQL_URL = f'mysql+aiomysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}/{DB_NAME}'
+
+
+
+
